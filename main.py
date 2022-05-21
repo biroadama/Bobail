@@ -1,6 +1,6 @@
 import pygame
-from bobeil.constants import WIDTH, HEIGHT, SQUARE_SIZE, YELLOW, BLUE, WHITE
-from bobeil.game import Game
+from bobail.constants import WIDTH, HEIGHT, SQUARE_SIZE, YELLOW, BLUE, WHITE
+from bobail.game import Game
 from minimax.algorithm import minimax
 
 

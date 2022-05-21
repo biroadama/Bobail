@@ -1,5 +1,5 @@
 import pygame
-from bobeil.constants import BLUE, YELLOW, SQUARE_SIZE
+from bobail.constants import BLUE, YELLOW, SQUARE_SIZE
 
 class Piece:
     PADDING = 20

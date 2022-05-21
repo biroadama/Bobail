@@ -6,7 +6,6 @@ WHITE = (248, 244, 249)
 YELLOW = (255, 249, 79)
 
 def minimax(position, depth, max_player, color, game):
-    #or position.winner() is not None
     if depth == 0:
         return position.evaluate(), position
     if max_player == True:

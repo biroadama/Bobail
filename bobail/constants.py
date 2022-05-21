@@ -1,7 +1,3 @@
-import pygame
-from itertools import cycle
-
-
 WIDTH, HEIGHT = 400, 400
 ROWS, COLS = 5, 5
 SQUARE_SIZE = WIDTH//COLS

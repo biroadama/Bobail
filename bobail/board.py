@@ -1,6 +1,6 @@
 import pygame
-from bobeil.constants import COLS, ROWS, YELLOW, BLUE, BROWN, WHITE, BLACK, SQUARE_SIZE
-from bobeil.piece import Piece
+from bobail.constants import COLS, ROWS, YELLOW, BLUE, BROWN, WHITE, BLACK, SQUARE_SIZE
+from bobail.piece import Piece
 
 
 
