@@ -9,7 +9,7 @@ Bobail originates from Madagascar. It is played by two players. Each player has 
 2. Then the player has to move with one of its five pieces in any direction, to the furthest place possible without jumping over another piece.
 
 The goal is to move the bobail piece to the player's baseline (the row on which initially the players have their pieces). 
-So if the bobail piece in the first line of a player, that player wins!
+So if the bobail piece is in the first line of a player, that player wins!
 The game is also won if a player manages to completely encircle the bobail piece, so that the opponent's next move (with the bobail) is impossible.
 One last thing, for its first turn, the first player doesn't play the bobail. He plays directly one of his tokens.
 
